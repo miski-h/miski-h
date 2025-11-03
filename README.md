@@ -1,6 +1,6 @@
 ## Open Source Reflections
 
-### 1. Integreat CMS — Adding Location Info to Events (2025)
+### 1. Integreat CMS, Adding Location Info to Events (PR #3967)
 I contributed a feature to the [Integreat CMS](https://github.com/digitalfabrik/integreat-cms) project that appends the LOCATION field from iCal imports to event descriptions.  
 This change ensures users can easily see where and how to participate in imported events.  
 
