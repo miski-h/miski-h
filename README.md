@@ -1,3 +1,4 @@
+<!-- 
 ## Open Source Reflections
 
 ### 1. Integreat CMS, Adding Location Info to Events (PR #3967)
@@ -9,6 +10,7 @@ This change ensures users can easily see where and how to participate in importe
 - Debugging Docker/Devcontainer setup and database containers.
 - Using Ruff, release notes, and CI checks.
 - Collaborating with maintainers in a professional open-source workflow.
+-->
 
 <!--
 **miski-h/miski-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
